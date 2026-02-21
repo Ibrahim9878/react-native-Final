@@ -8,6 +8,8 @@ export default function Some() {
                 <Text>Back</Text>
             </Pressable>
             <Text>Some</Text>
+            <Text>Some</Text>
+            <Text>Some</Text>
         </View>
     );
 }
