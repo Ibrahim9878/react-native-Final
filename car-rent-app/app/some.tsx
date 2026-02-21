@@ -9,6 +9,11 @@ export default function Some() {
             </Pressable>
             <Text>Some</Text>
             <Text>Some</Text>
+
+
+
+
+            jhbjhbjhbjh
             <Text>Some</Text>
         </View>
     );
